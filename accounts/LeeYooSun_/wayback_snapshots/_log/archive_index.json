@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T01:43:56",
+  "last_updated": "2026-08-02T01:46:00",
   "html": {
     "https://web.archive.org/web/20260725171818if_/https://twitter.com/LeeYooSun_/status/2081066523360383303": {
       "status": "done",
@@ -1241,9 +1241,9 @@
       "referenced_by": [
         "20260725205612_twitter_com_LeeYooSun__status_2081121359799960054.json"
       ],
-      "last_updated": "2026-08-02T01:07:45",
+      "last_updated": "2026-08-02T01:46:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725205612if_/https://pbs.twimg.com/profile_images/2080836269437833216/IiQPk1ok_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg": {
       "status": "done",
@@ -1300,13 +1300,13 @@
       "last_updated": "2026-08-02T01:07:43"
     },
     "https://pbs.twimg.com/profile_images/2079206417752330240/7HJKL5Ws_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260726132555_twitter_com_LeeYooSun__status_2081370431374946420.json",
         "20260726135452_twitter_com_LeeYooSun__status_2081377716390269438.json",
         "20260726142616_twitter_com_LeeYooSun__status_2081385617116840007.json"
       ],
-      "last_updated": "2026-08-02T01:07:46",
+      "last_updated": "2026-08-02T01:46:00",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260726142616if_/https://pbs.twimg.com/profile_images/2079206417752330240/7HJKL5Ws_normal.jpg",
       "miss_count": 1
     },
