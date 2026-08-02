@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T01:37:40",
+  "last_updated": "2026-08-02T01:42:45",
   "html": {
     "https://web.archive.org/web/20260725171818if_/https://twitter.com/LeeYooSun_/status/2081066523360383303": {
       "status": "done",
@@ -756,9 +756,9 @@
       "referenced_by": [
         "20260725171108_twitter_com_LeeYooSun__status_2081064721743265813.json"
       ],
-      "last_updated": "2026-08-02T00:52:46",
+      "last_updated": "2026-08-02T01:42:45",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260725171108/https://pbs.twimg.com/media/HOFtVGbaYAAhsU7.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HOFtVGlaUAAf_Qv.jpg": {
       "status": "done",
