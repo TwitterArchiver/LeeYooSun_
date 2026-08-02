@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083445111426634134",
+    "created_at": "2026-08-01T06:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083445111426634134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/offixial_ranky…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/offixial_ranky/status/2083129611244773426",
+          "start": 24,
+          "url": "https://t.co/9XXnWmwoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083445111426634134",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083129611244773426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沉迷drugs的人攒不住钱的原因be like https://t.co/9XXnWmwoto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2083129594081574912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjDVDRWAAALSJc.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083445111426634134",
+        "created_at": "2026-08-01T06:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083445111426634134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/offixial_ranky…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/offixial_ranky/status/2083129611244773426",
+              "start": 24,
+              "url": "https://t.co/9XXnWmwoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083445111426634134",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083129611244773426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沉迷drugs的人攒不住钱的原因be like https://t.co/9XXnWmwoto"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083129594081574912"
+          ]
+        },
+        "author_id": "1499553102491529217",
+        "conversation_id": "2083129611244773426",
+        "created_at": "2026-07-31T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083129611244773426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFIMYvQ2Wn",
+              "end": 57,
+              "expanded_url": "https://x.com/offixial_ranky/status/2083129611244773426/photo/1",
+              "media_key": "3_2083129594081574912",
+              "start": 34,
+              "url": "https://t.co/wFIMYvQ2Wn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083129611244773426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 713,
+          "impression_count": 242381,
+          "like_count": 16725,
+          "quote_count": 97,
+          "reply_count": 154,
+          "retweet_count": 1792
+        },
+        "reply_settings": "everyone",
+        "text": "Stoners Immediately they get paid https://t.co/wFIMYvQ2Wn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 313,
+          "like_count": 6547,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1835
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-04T01:14:27.000Z",
+        "description": "",
+        "id": "1499553102491529217",
+        "name": "🦉",
+        "pinned_tweet_id": "2081639917214474492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023049861931880448/xEloNJbi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4219,
+          "following_count": 2640,
+          "like_count": 329988,
+          "listed_count": 18,
+          "media_count": 1471,
+          "tweet_count": 118532
+        },
+        "url": "",
+        "username": "offixial_ranky",
+        "verified": true
+      }
+    ]
+  }
+}

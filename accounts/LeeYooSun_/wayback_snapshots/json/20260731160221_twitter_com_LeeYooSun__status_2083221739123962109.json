@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083221739123962109",
+    "created_at": "2026-07-31T16:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083221739123962109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_sakanoue/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/_sakanoue/status/2082876511879925773",
+          "start": 11,
+          "url": "https://t.co/Hsrn5FaQeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083221739123962109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082876511879925773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么要这样对待宝宝 https://t.co/Hsrn5FaQeT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2082876506263719936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfdJZrbEAAhUCc.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083221739123962109",
+        "created_at": "2026-07-31T16:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083221739123962109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_sakanoue/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/_sakanoue/status/2082876511879925773",
+              "start": 11,
+              "url": "https://t.co/Hsrn5FaQeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221739123962109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082876511879925773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要这样对待宝宝 https://t.co/Hsrn5FaQeT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082876506263719936"
+          ]
+        },
+        "author_id": "1882246692",
+        "conversation_id": "2082876511879925773",
+        "created_at": "2026-07-30T17:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082876511879925773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5A12AjiPo",
+              "end": 23,
+              "expanded_url": "https://x.com/_sakanoue/status/2082876511879925773/photo/1",
+              "media_key": "3_2082876506263719936",
+              "start": 0,
+              "url": "https://t.co/g5A12AjiPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082876511879925773",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 789,
+          "impression_count": 127630,
+          "like_count": 9615,
+          "quote_count": 108,
+          "reply_count": 15,
+          "retweet_count": 1226
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g5A12AjiPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 312,
+          "like_count": 6496,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-19T07:33:25.000Z",
+        "description": "画像収集癖　Image collecting",
+        "id": "1882246692",
+        "location": "🎌",
+        "name": "S＠KANOUE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955984556785590282/U0Is-i72_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32531,
+          "following_count": 0,
+          "like_count": 173,
+          "listed_count": 500,
+          "media_count": 17381,
+          "tweet_count": 23343
+        },
+        "url": "",
+        "username": "_sakanoue",
+        "verified": false
+      }
+    ]
+  }
+}

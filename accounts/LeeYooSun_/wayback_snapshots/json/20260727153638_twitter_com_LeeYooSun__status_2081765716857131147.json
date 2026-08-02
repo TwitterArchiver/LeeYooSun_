@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2081765716857131147",
+    "created_at": "2026-07-27T15:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081765716857131147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/178neet/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/178neet/status/2081643391163814008",
+          "start": 6,
+          "url": "https://t.co/J4Qry8q2LW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081765716857131147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081643391163814008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "清澈的愚蠢 https://t.co/J4Qry8q2LW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2552,
+        "media_key": "3_2081643384431931392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON7oQ4bcAAap0_.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2081765716857131147",
+        "created_at": "2026-07-27T15:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081765716857131147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/178neet/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/178neet/status/2081643391163814008",
+              "start": 6,
+              "url": "https://t.co/J4Qry8q2LW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081765716857131147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081643391163814008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "清澈的愚蠢 https://t.co/J4Qry8q2LW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081643384431931392"
+          ]
+        },
+        "author_id": "937254389508587523",
+        "conversation_id": "2081643391163814008",
+        "created_at": "2026-07-27T07:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081643391163814008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5F5zyW3hNX",
+              "end": 39,
+              "expanded_url": "https://x.com/178neet/status/2081643391163814008/photo/1",
+              "media_key": "3_2081643384431931392",
+              "start": 16,
+              "url": "https://t.co/5F5zyW3hNX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081643391163814008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5701,
+          "like_count": 626,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "このなんも分かってない顔が好き https://t.co/5F5zyW3hNX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 314,
+          "like_count": 6136,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1703
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-03T09:37:14.000Z",
+        "description": "絵も描きます。うさぎ大好き休養絵描き/手帳二級/ADHD 欲しいものリストhttps://t.co/aWrJWlZHBOドールアイや雑貨を作ったりもします。@Flower0Rabbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 78,
+                "username": "Flower0Rabbit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/1oxWb",
+                "end": 60,
+                "expanded_url": "https://x.gd/1oxWb",
+                "start": 37,
+                "url": "https://t.co/aWrJWlZHBO"
+              }
+            ]
+          }
+        },
+        "id": "937254389508587523",
+        "location": "大阪",
+        "name": "いなば",
+        "pinned_tweet_id": "1506446963033935872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642957249042866182/7ENVHlJB_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1325,
+          "following_count": 643,
+          "like_count": 89160,
+          "listed_count": 28,
+          "media_count": 6180,
+          "tweet_count": 37214
+        },
+        "url": "",
+        "username": "178neet",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2081662618574762073",
+    "created_at": "2026-07-27T08:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081662618574762073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2052289303141900765",
+          "start": 11,
+          "url": "https://t.co/bGlzN4qGSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081662618574762073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052289303141900765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蛋白质是🤫方人需要的 https://t.co/bGlzN4qGSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46718,
+        "height": 1280,
+        "media_key": "13_2052288903844139008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052288903844139008/img/70ylFzW-CrJ0022L.jpg",
+        "public_metrics": {
+          "view_count": 134396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052288903844139008/vid/avc1/320x568/ZTrJ_3PRPdLvyBoC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052288903844139008/vid/avc1/480x852/hYQH-EzOpQjnHvps.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052288903844139008/vid/avc1/720x1280/we5NqwNC9YAGN7uD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052288903844139008/pl/yG3LxI3GFcrrWfvl.m3u8?v=4f2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2081662618574762073",
+        "created_at": "2026-07-27T08:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081662618574762073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2052289303141900765",
+              "start": 11,
+              "url": "https://t.co/bGlzN4qGSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081662618574762073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052289303141900765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蛋白质是🤫方人需要的 https://t.co/bGlzN4qGSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052288903844139008"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "conversation_id": "2052289303141900765",
+        "created_at": "2026-05-07T07:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052289303141900765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbVPAeG2hj",
+              "end": 107,
+              "expanded_url": "https://x.com/wangjupaian/status/2052289303141900765/video/1",
+              "media_key": "13_2052288903844139008",
+              "start": 84,
+              "url": "https://t.co/zbVPAeG2hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052289303141900765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 269238,
+          "like_count": 1207,
+          "quote_count": 17,
+          "reply_count": 516,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "视频中，一名小女孩字正腔圆地说：“我们中国人是不需要蛋白质的，蛋白质是西方人需要的……”\n\n有网友转发视频并感叹：“孩子是无辜的，把孩子教成这样，大人是要负责任的。” https://t.co/zbVPAeG2hj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 313,
+          "like_count": 6112,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157651,
+          "following_count": 360,
+          "like_count": 589,
+          "listed_count": 438,
+          "media_count": 8841,
+          "tweet_count": 9691
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

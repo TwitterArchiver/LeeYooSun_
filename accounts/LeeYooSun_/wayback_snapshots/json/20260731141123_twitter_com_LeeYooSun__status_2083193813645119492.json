@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083193813645119492",
+    "created_at": "2026-07-31T14:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083193813645119492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/2082677163682308385",
+          "start": 8,
+          "url": "https://t.co/MOe60cSY3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083193813645119492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082677163682308385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同性恋唯一红利 https://t.co/MOe60cSY3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2082677148629024768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcn1QnbQAAyywN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083193813645119492",
+        "created_at": "2026-07-31T14:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083193813645119492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/2082677163682308385",
+              "start": 8,
+              "url": "https://t.co/MOe60cSY3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083193813645119492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082677163682308385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同性恋唯一红利 https://t.co/MOe60cSY3G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082677148629024768"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2082677163682308385",
+        "created_at": "2026-07-30T03:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082677163682308385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqkVRpe8U9",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2082677163682308385/photo/1",
+              "media_key": "3_2082677148629024768",
+              "start": 0,
+              "url": "https://t.co/OqkVRpe8U9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082677163682308385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 46034,
+          "like_count": 781,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OqkVRpe8U9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 312,
+          "like_count": 6471,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1810
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121851,
+          "following_count": 1118,
+          "like_count": 52116,
+          "listed_count": 298,
+          "media_count": 23833,
+          "tweet_count": 34387
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

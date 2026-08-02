@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2082925971414700181",
+    "created_at": "2026-07-30T20:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082925971414700181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gattungswesen2…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/gattungswesen25/status/2082628626147586101",
+          "start": 6,
+          "url": "https://t.co/ybdRqvrjsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082925971414700181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082628626147586101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "爹饶了我爹 https://t.co/ybdRqvrjsV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2082925971414700181",
+        "created_at": "2026-07-30T20:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082925971414700181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gattungswesen2…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/gattungswesen25/status/2082628626147586101",
+              "start": 6,
+              "url": "https://t.co/ybdRqvrjsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082925971414700181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082628626147586101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "爹饶了我爹 https://t.co/ybdRqvrjsV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670551116281712640",
+        "conversation_id": "2082628626147586101",
+        "created_at": "2026-07-30T00:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082628626147586101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082628626147586101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 7959,
+          "like_count": 232,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Under the dictatorship of the proletariat, we will ban all talk of \"dialectical materialism\" until you have read Hegel's Phenomenology of Spirit and Science of Logic, Marx's Paris Manuscripts, Capital, and Grundisse."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 314,
+          "like_count": 6418,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1796
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T21:57:17.000Z",
+        "description": "Marxist Humanist. Philosopher. Internationalist. Free 🇵🇸🇺🇦🇨🇩🇸🇩🇨🇺. Read Marx's Paris Manuscripts, Raya's Marxism & Freedom, & Hegel's Science of Logic.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imhojournal.org",
+                "end": 23,
+                "expanded_url": "https://imhojournal.org/",
+                "start": 0,
+                "url": "https://t.co/axRnI0h0Bg"
+              }
+            ]
+          }
+        },
+        "id": "1670551116281712640",
+        "location": "The Absolute Idea",
+        "name": "Antinomy 🚩📚",
+        "pinned_tweet_id": "1714786356277416076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793952580466532352/5AExzczx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7236,
+          "following_count": 755,
+          "like_count": 80568,
+          "listed_count": 19,
+          "media_count": 1552,
+          "tweet_count": 45419
+        },
+        "url": "https://t.co/axRnI0h0Bg",
+        "username": "Gattungswesen25",
+        "verified": false
+      }
+    ]
+  }
+}

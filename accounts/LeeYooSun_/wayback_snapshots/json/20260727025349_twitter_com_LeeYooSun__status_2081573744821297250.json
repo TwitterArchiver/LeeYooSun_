@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2081509364524015648",
+    "created_at": "2026-07-27T02:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081573744821297250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1999153024019869696",
+          "start": 0,
+          "username": "KKKaoru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081573744821297250",
+    "in_reply_to_user_id": "1999153024019869696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081509364524015648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKKaoru_ Kaoru……🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2081509364524015648",
+        "created_at": "2026-07-27T02:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081573744821297250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1999153024019869696",
+              "start": 0,
+              "username": "KKKaoru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081573744821297250",
+        "in_reply_to_user_id": "1999153024019869696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081509364524015648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKKaoru_ Kaoru……🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999153024019869696",
+        "conversation_id": "2081509364524015648",
+        "created_at": "2026-07-26T22:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081509364524015648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081509364524015648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幻想和我前男友做爱。\n要是他愿意做就好了。\n我们从来没有愉快的做过。\n\n先哄一个小时，然后在厕所洗两三个小时，实际上就是磨时间玩手机。\n最后插进去没多久又说肚子疼。\n\n做完以后还要说我不理解他，说我不懂他。但不知道为什么他总要答应下来，答应以后还要一直折磨我。\n\n我花了好多好多钱养他。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 312,
+          "like_count": 6091,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T16:25:44.000Z",
+        "description": "如果你认识的我叫何鸿，那我很抱歉 / 实名李彦齐 山东人 / 两个大傻逼@_Mizutani__ @bing2000100830 / 骚逼@pillsandblood / 神秘人@NeckedBottle404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "_Mizutani__"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "bing2000100830"
+              },
+              {
+                "end": 83,
+                "start": 69,
+                "username": "pillsandblood"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "NeckedBottle404"
+              }
+            ]
+          }
+        },
+        "id": "1999153024019869696",
+        "name": "Kaoru",
+        "pinned_tweet_id": "2049167826510823759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078976384731656192/nB0E2Yd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 35,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "KKKaoru_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2082144226331209998",
+    "created_at": "2026-07-28T16:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082146684965192104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082146684965192104",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082144226331209998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 青年游击队员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2082144226331209998",
+        "created_at": "2026-07-28T16:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082146684965192104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082146684965192104",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082144226331209998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 青年游击队员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794266757995343872",
+        "conversation_id": "2082144226331209998",
+        "created_at": "2026-07-28T16:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082144226331209998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caucasusvisual…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/caucasusvisuals/status/2082030442602012965",
+              "start": 5,
+              "url": "https://t.co/1n1epdlfFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082144226331209998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082030442602012965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁来了🗿 https://t.co/1n1epdlfFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 314,
+          "like_count": 6239,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "يا أبناء القسام اضربوا صواريخكم على تل أبيب",
+        "id": "1794266757995343872",
+        "location": "日本伊斯兰共和国",
+        "name": "霍尔木兹海峡冲浪里",
+        "pinned_tweet_id": "2040833905667006896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082071788742393856/eM3Z-lwA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 1669,
+          "like_count": 318940,
+          "listed_count": 2,
+          "media_count": 2884,
+          "tweet_count": 60878
+        },
+        "url": "",
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

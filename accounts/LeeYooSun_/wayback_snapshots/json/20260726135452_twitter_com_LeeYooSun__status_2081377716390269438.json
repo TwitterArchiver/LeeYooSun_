@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2081339896296554687",
+    "created_at": "2026-07-26T13:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081377716390269438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906644812293451776",
+          "start": 0,
+          "username": "xiangzuoxiaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081377716390269438",
+    "in_reply_to_user_id": "1906644812293451776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081371081181405493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangzuoxiaomao 😘"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081371081181405493].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081371081181405493",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081371081181405493"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2081339896296554687",
+        "created_at": "2026-07-26T13:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081377716390269438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906644812293451776",
+              "start": 0,
+              "username": "xiangzuoxiaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081377716390269438",
+        "in_reply_to_user_id": "1906644812293451776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081371081181405493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangzuoxiaomao 😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 310,
+          "like_count": 6035,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T09:48:46.000Z",
+        "description": "🈚性别所属 & 🈚特定政治立场所属/某老推油多次转生（通称河北酱)/禁止外传本号内容/想看我日常自拍女装等等可以翻往期照片/🚪4698 CNY",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=DHi_iT…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/watch?v=DHi_iTc3Kxs",
+                "start": 0,
+                "url": "https://t.co/Gbhrd5Xwqr"
+              }
+            ]
+          }
+        },
+        "id": "1906644812293451776",
+        "location": "死人堆",
+        "name": "Hauntological Blues",
+        "pinned_tweet_id": "2080687885334810683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079206417752330240/7HJKL5Ws_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 451,
+          "like_count": 72552,
+          "listed_count": 0,
+          "media_count": 1684,
+          "tweet_count": 26119
+        },
+        "url": "https://t.co/Gbhrd5Xwqr",
+        "username": "xiangzuoxiaomao",
+        "verified": false
+      }
+    ]
+  }
+}

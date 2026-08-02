@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030785263249559552"
+      ],
+      "media_source_tweet_id": [
+        "2030785324649955409"
+      ]
+    },
+    "author_id": "2050513602096820224",
+    "conversation_id": "2082017908486783467",
+    "created_at": "2026-07-28T08:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T09:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082017908486783467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750468126972559360",
+          "start": 3,
+          "username": "miyarah_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tovSliqzSv",
+          "end": 93,
+          "expanded_url": "https://x.com/jabscy/status/2030785324649955409/video/1",
+          "media_key": "13_2030785263249559552",
+          "start": 70,
+          "url": "https://t.co/tovSliqzSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082017908486783467",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081790799570735439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyarah_: como pensaba que iba a ser mi vida cuando cumpliera 18  https://t.co/tovSliqzSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24751,
+        "height": 508,
+        "media_key": "13_2030785263249559552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030785263249559552/img/XMsZtaHOKozDjoy6.jpg",
+        "public_metrics": {
+          "view_count": 4192279
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030785263249559552/vid/avc1/382x270/bWYVG8ddKrxPBnc-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030785263249559552/vid/avc1/510x360/faCnlb_RrI37qIZM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030785263249559552/vid/avc1/720x508/x5n_xDPjKtrSZ9pZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030785263249559552/pl/Lr338QyMAbv7745v.m3u8?v=036"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030785263249559552"
+          ]
+        },
+        "author_id": "1603869076413112327",
+        "conversation_id": "2030785324649955409",
+        "created_at": "2026-03-08T23:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T00:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030785324649955409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERhWH9D1Ia",
+              "end": 83,
+              "expanded_url": "https://x.com/jabscy/status/2030785324649955409/video/1",
+              "media_key": "13_2030785263249559552",
+              "start": 60,
+              "url": "https://t.co/ERhWH9D1Ia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030785324649955409",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5175,
+          "impression_count": 1958633,
+          "like_count": 135851,
+          "quote_count": 411,
+          "reply_count": 93,
+          "retweet_count": 15279
+        },
+        "reply_settings": "everyone",
+        "text": "como pensaba que iba a ser mi vida si estudiaba y trabajaba https://t.co/ERhWH9D1Ia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030785263249559552"
+          ],
+          "media_source_tweet_id": [
+            "2030785324649955409"
+          ]
+        },
+        "author_id": "2050513602096820224",
+        "conversation_id": "2082017908486783467",
+        "created_at": "2026-07-28T08:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082017908486783467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750468126972559360",
+              "start": 3,
+              "username": "miyarah_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tovSliqzSv",
+              "end": 93,
+              "expanded_url": "https://x.com/jabscy/status/2030785324649955409/video/1",
+              "media_key": "13_2030785263249559552",
+              "start": 70,
+              "url": "https://t.co/tovSliqzSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082017908486783467",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081790799570735439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyarah_: como pensaba que iba a ser mi vida cuando cumpliera 18  https://t.co/tovSliqzSv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030785263249559552"
+          ],
+          "media_source_tweet_id": [
+            "2030785324649955409"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "conversation_id": "2081790799570735439",
+        "created_at": "2026-07-27T17:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081790799570735439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tovSliqzSv",
+              "end": 79,
+              "expanded_url": "https://x.com/jabscy/status/2030785324649955409/video/1",
+              "media_key": "13_2030785263249559552",
+              "start": 56,
+              "url": "https://t.co/tovSliqzSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081790799570735439",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1396,
+          "impression_count": 296647,
+          "like_count": 41651,
+          "quote_count": 149,
+          "reply_count": 54,
+          "retweet_count": 6241
+        },
+        "reply_settings": "everyone",
+        "text": "como pensaba que iba a ser mi vida cuando cumpliera 18  https://t.co/tovSliqzSv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 316,
+          "like_count": 6169,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1718
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7UhK4"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "name": "miya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078907663434346496/iG271fw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17498,
+          "following_count": 2004,
+          "like_count": 184563,
+          "listed_count": 146,
+          "media_count": 6131,
+          "tweet_count": 152289
+        },
+        "url": "https://t.co/r6yCv7UhK4",
+        "username": "miyarah_",
+        "verified": false
+      }
+    ]
+  }
+}

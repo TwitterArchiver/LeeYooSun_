@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083143539295388016",
+    "created_at": "2026-07-31T10:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083143539295388016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/streelitas_/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/streelitas_/status/2082694749673111812",
+          "start": 17,
+          "url": "https://t.co/JAyZHJrHEQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083143539295388016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082694749673111812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就说她只是鬼上身了不是不爱我了 https://t.co/JAyZHJrHEQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29133,
+        "height": 602,
+        "media_key": "13_2078842227015524352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078842227015524352/img/9FzwJZmW3c_AQqjc.jpg",
+        "public_metrics": {
+          "view_count": 1269322
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078842227015524352/vid/avc1/370x270/Z1ayW2T8PDXPbKkg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078842227015524352/vid/avc1/494x360/rVkFmw5r4nMFCIpN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078842227015524352/vid/avc1/828x602/pdQtc3cAH24luiOX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078842227015524352/pl/1xpg_pBx4YKlH2lu.m3u8?v=cfc"
+          }
+        ],
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083143539295388016",
+        "created_at": "2026-07-31T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083143539295388016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/streelitas_/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/streelitas_/status/2082694749673111812",
+              "start": 17,
+              "url": "https://t.co/JAyZHJrHEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083143539295388016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082694749673111812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就说她只是鬼上身了不是不爱我了 https://t.co/JAyZHJrHEQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078842227015524352"
+          ],
+          "media_source_tweet_id": [
+            "2078842283256893876"
+          ]
+        },
+        "author_id": "1855325129066094592",
+        "conversation_id": "2082694749673111812",
+        "created_at": "2026-07-30T05:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082694749673111812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PShTcGNNQK",
+              "end": 119,
+              "expanded_url": "https://x.com/geladeiratrikas/status/2078842283256893876/video/1",
+              "media_key": "13_2078842227015524352",
+              "start": 96,
+              "url": "https://t.co/PShTcGNNQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082694749673111812",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1245,
+          "impression_count": 345540,
+          "like_count": 35528,
+          "quote_count": 1188,
+          "reply_count": 239,
+          "retweet_count": 11069
+        },
+        "reply_settings": "everyone",
+        "text": "quando vc abre a galeria e vê foto com sua ex melhor amiga antes do diabo possuir o corpo dela  https://t.co/PShTcGNNQK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 312,
+          "like_count": 6457,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T19:02:42.000Z",
+        "description": "@swlteener",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "swlteener"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lana.com",
+                "end": 23,
+                "expanded_url": "http://lana.com",
+                "start": 0,
+                "url": "https://t.co/Y7dqflwI1Q"
+              }
+            ]
+          }
+        },
+        "id": "1855325129066094592",
+        "location": "@marinthwans 🖤",
+        "name": "bia do corinthians",
+        "pinned_tweet_id": "2075709928782639143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073565408536182784/uQqH67J0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 208,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/Y7dqflwI1Q",
+        "username": "streelitas_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083064167796539399",
+    "created_at": "2026-07-31T09:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083118836208046543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1438420916518539267",
+          "start": 0,
+          "username": "200x0x1x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083118836208046543",
+    "in_reply_to_user_id": "1438420916518539267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083064167796539399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@200x0x1x 宝高祖酥酥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2083064160792051713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOiH0VRbgAE-hjg.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083064167796539399",
+        "created_at": "2026-07-31T09:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083118836208046543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1438420916518539267",
+              "start": 0,
+              "username": "200x0x1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083118836208046543",
+        "in_reply_to_user_id": "1438420916518539267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083064167796539399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@200x0x1x 宝高祖酥酥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083064160792051713"
+          ]
+        },
+        "author_id": "1438420916518539267",
+        "conversation_id": "2083064167796539399",
+        "created_at": "2026-07-31T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083064167796539399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEdpiSxk7p",
+              "end": 43,
+              "expanded_url": "https://x.com/200x0x1x/status/2083064167796539399/photo/1",
+              "media_key": "3_2083064160792051713",
+              "start": 20,
+              "url": "https://t.co/XEdpiSxk7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083064167796539399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我走了以后，你们都是宝宝族，去创造吧。 https://t.co/XEdpiSxk7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 312,
+          "like_count": 6444,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1802
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-16T08:34:28.000Z",
+        "description": "神啊救救这婊子吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/200x0x1x",
+                "end": 23,
+                "expanded_url": "https://ngl.link/200x0x1x",
+                "start": 0,
+                "url": "https://t.co/OblpvUQiPF"
+              }
+            ]
+          }
+        },
+        "id": "1438420916518539267",
+        "location": "UChicago",
+        "name": "你们毁了一个萌系的女孩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082533612994600961/H7G718zJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 677,
+          "like_count": 28861,
+          "listed_count": 7,
+          "media_count": 2520,
+          "tweet_count": 27773
+        },
+        "url": "https://t.co/OblpvUQiPF",
+        "username": "200x0x1x",
+        "verified": true
+      }
+    ]
+  }
+}

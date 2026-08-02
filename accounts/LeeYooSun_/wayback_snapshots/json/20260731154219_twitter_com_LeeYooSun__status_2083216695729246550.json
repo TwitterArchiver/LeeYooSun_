@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083216695729246550",
+    "created_at": "2026-07-31T15:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083216695729246550"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yueyue8964/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yueyue8964/status/2082871006344142999",
+          "start": 16,
+          "url": "https://t.co/lEW5yJqB01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083216695729246550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082871006344142999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小时候还爱玩上面的手术模拟游戏 https://t.co/lEW5yJqB01"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083216695729246550",
+        "created_at": "2026-07-31T15:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083216695729246550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yueyue8964/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yueyue8964/status/2082871006344142999",
+              "start": 16,
+              "url": "https://t.co/lEW5yJqB01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083216695729246550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082871006344142999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小时候还爱玩上面的手术模拟游戏 https://t.co/lEW5yJqB01"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750329917252976640",
+        "conversation_id": "2082871006344142999",
+        "created_at": "2026-07-30T16:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082871006344142999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082871006344142999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 105603,
+          "like_count": 1524,
+          "quote_count": 23,
+          "reply_count": 258,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "我的人生从小时候在4399上玩打初音未来屁股的时候已经完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 312,
+          "like_count": 6490,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1815
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "我想我不够好",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10039,
+          "following_count": 549,
+          "like_count": 11081,
+          "listed_count": 21,
+          "media_count": 524,
+          "tweet_count": 14164
+        },
+        "url": "",
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

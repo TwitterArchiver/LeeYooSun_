@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2082843672035672104",
+    "created_at": "2026-07-30T15:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082843672035672104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bloodlustvoid/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bloodlustvoid/status/2082532960176103792",
+          "start": 5,
+          "url": "https://t.co/yqKviI5MKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082843672035672104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082532960176103792",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死亡角度 https://t.co/yqKviI5MKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082532951800135680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOakr5kXwAABox4.jpg",
+        "width": 2041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2082843672035672104",
+        "created_at": "2026-07-30T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082843672035672104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bloodlustvoid/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bloodlustvoid/status/2082532960176103792",
+              "start": 5,
+              "url": "https://t.co/yqKviI5MKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082843672035672104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082532960176103792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死亡角度 https://t.co/yqKviI5MKh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082532951800135680"
+          ]
+        },
+        "author_id": "1911447238804410368",
+        "conversation_id": "2082532960176103792",
+        "created_at": "2026-07-29T18:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082532960176103792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBIPvHkLcK",
+              "end": 31,
+              "expanded_url": "https://x.com/bloodlustvoid/status/2082532960176103792/photo/1",
+              "media_key": "3_2082532951800135680",
+              "start": 8,
+              "url": "https://t.co/JBIPvHkLcK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082532960176103792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3927,
+          "like_count": 305,
+          "quote_count": 5,
+          "reply_count": 5,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "haii :3 https://t.co/JBIPvHkLcK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 314,
+          "like_count": 6386,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T15:52:58.000Z",
+        "description": "evil autism",
+        "id": "1911447238804410368",
+        "location": "24, any prns, aroace",
+        "name": "r.",
+        "pinned_tweet_id": "2068352664379805926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912316179361722369/CqTLsQg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 272,
+          "like_count": 32517,
+          "listed_count": 1,
+          "media_count": 301,
+          "tweet_count": 4415
+        },
+        "url": "",
+        "username": "bloodlustvoid",
+        "verified": false
+      }
+    ]
+  }
+}

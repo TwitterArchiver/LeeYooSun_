@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1287879055191052288",
+          "name": "Gaming content creators"
+        }
+      }
+    ],
+    "conversation_id": "2081266448677384402",
+    "created_at": "2026-07-26T06:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081266448677384402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/starlink/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/starlink/status/2080392509671534884",
+          "start": 8,
+          "url": "https://t.co/oIHFUUoPvD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081266448677384402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080392509671534884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请问🇰🇵能用吗 https://t.co/oIHFUUoPvD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          }
+        ],
+        "conversation_id": "2081266448677384402",
+        "created_at": "2026-07-26T06:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081266448677384402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/starlink/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/starlink/status/2080392509671534884",
+              "start": 8,
+              "url": "https://t.co/oIHFUUoPvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081266448677384402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080392509671534884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问🇰🇵能用吗 https://t.co/oIHFUUoPvD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1330170106501079041",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1287879055191052288",
+              "name": "Gaming content creators"
+            }
+          }
+        ],
+        "conversation_id": "2080392509671534884",
+        "created_at": "2026-07-23T20:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T21:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080392509671534884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080392509671534884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 17080426,
+          "like_count": 3095,
+          "quote_count": 16,
+          "reply_count": 204,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "Get connected with fast, reliable internet for streaming, video calls, online gaming and more.\n\nOrder online in minutes."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080676432913838080/umaCIRSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 311,
+          "like_count": 5971,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1667
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-21T15:25:07.000Z",
+        "description": "Fast, affordable internet available all around the world. Engineered by @SpaceX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "SpaceX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "starlink.com",
+                "end": 23,
+                "expanded_url": "http://starlink.com",
+                "start": 0,
+                "url": "https://t.co/VvFvTR85fC"
+              }
+            ]
+          }
+        },
+        "id": "1330170106501079041",
+        "name": "Starlink",
+        "pinned_tweet_id": "2020634516554166600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720501511271383040/FXz_jiJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683062,
+          "following_count": 31,
+          "like_count": 363,
+          "listed_count": 2746,
+          "media_count": 262,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/VvFvTR85fC",
+        "username": "Starlink",
+        "verified": true
+      }
+    ]
+  }
+}
