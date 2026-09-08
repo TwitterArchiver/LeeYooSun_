@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083553602636066949",
+    "created_at": "2026-08-01T14:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083553602636066949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gunshotsglitte…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/gunshotsglitter/status/2083358317577953341",
+          "start": 16,
+          "url": "https://t.co/rWS7WPr799"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083553602636066949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083358317577953341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上学时候的怨气be like https://t.co/rWS7WPr799"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8544,
+        "height": 586,
+        "media_key": "13_2076459397438443520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076459397438443520/img/u6ZmzrDeMWKIru8G.jpg",
+        "public_metrics": {
+          "view_count": 390964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076459397438443520/vid/avc1/320x390/ZlgU93OzJHAwvhkL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076459397438443520/vid/avc1/480x586/NhyMZvev0bKQC5jr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076459397438443520/pl/YGiohrdMyIINv_ZF.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083553602636066949",
+        "created_at": "2026-08-01T14:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553602636066949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gunshotsglitte…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/gunshotsglitter/status/2083358317577953341",
+              "start": 16,
+              "url": "https://t.co/rWS7WPr799"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553602636066949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083358317577953341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上学时候的怨气be like https://t.co/rWS7WPr799"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076459397438443520"
+          ],
+          "media_source_tweet_id": [
+            "2076459408591065451"
+          ]
+        },
+        "author_id": "2067699197164302336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083358317577953341",
+        "created_at": "2026-08-01T01:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083358317577953341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOIPztVnny",
+              "end": 63,
+              "expanded_url": "https://x.com/nicanicabanana/status/2076459408591065451/video/1",
+              "media_key": "13_2076459397438443520",
+              "start": 40,
+              "url": "https://t.co/SOIPztVnny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083358317577953341",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 261122,
+          "like_count": 13095,
+          "quote_count": 97,
+          "reply_count": 23,
+          "retweet_count": 3527
+        },
+        "reply_settings": "everyone",
+        "text": "eu me arrumando pra escola 6h da manhã  https://t.co/SOIPztVnny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 316,
+          "like_count": 6572,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1849
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T20:58:03.000Z",
+        "description": "thoughts of a freak lesbian",
+        "id": "2067699197164302336",
+        "location": "dema |-/",
+        "name": "sunny ⚢",
+        "pinned_tweet_id": "2080353093900804427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083366432096591872/bJu3Q3i9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 254,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "gunshotsglitter",
+        "verified": false
+      }
+    ]
+  }
+}

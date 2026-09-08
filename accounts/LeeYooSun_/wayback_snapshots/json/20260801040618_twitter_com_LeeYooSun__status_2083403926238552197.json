@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083403926238552197",
+    "created_at": "2026-08-01T04:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083403926238552197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083403926238552197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浪友是当之无愧的中文互联网游牧民族，无论是造梗能力还是搬家速度都是一绝，因为没有固定居所，这些人造的梗会通过传播学不断被后人吸收、稀释和再利用，从小圈子语言逐渐变成大众化的日常用语，真正呈现出了互联网语言的延异"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083403926238552197",
+        "created_at": "2026-08-01T04:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083403926238552197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083403926238552197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "浪友是当之无愧的中文互联网游牧民族，无论是造梗能力还是搬家速度都是一绝，因为没有固定居所，这些人造的梗会通过传播学不断被后人吸收、稀释和再利用，从小圈子语言逐渐变成大众化的日常用语，真正呈现出了互联网语言的延异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2077063528318697730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 314,
+          "like_count": 6516,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1825
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      }
+    ]
+  }
+}

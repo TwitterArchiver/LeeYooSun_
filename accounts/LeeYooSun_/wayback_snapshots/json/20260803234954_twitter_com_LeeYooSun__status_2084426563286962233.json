@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2084426563286962233",
+    "created_at": "2026-08-03T23:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084426563286962233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sagerrgyalpo/s…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/sagerrgyalpo/status/2083945826351763836",
+          "start": 2,
+          "url": "https://t.co/HGyp8T2toP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084426563286962233",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083945826351763836",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🗿 https://t.co/HGyp8T2toP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2083945821524074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuprvcaIAAR7GT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084426563286962233",
+        "created_at": "2026-08-03T23:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084426563286962233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2083945826351763836",
+              "start": 2,
+              "url": "https://t.co/HGyp8T2toP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084426563286962233",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083945826351763836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🗿 https://t.co/HGyp8T2toP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083945821524074496"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "conversation_id": "2083945826351763836",
+        "created_at": "2026-08-02T15:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083945826351763836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1b8EwM41h",
+              "end": 68,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2083945826351763836/photo/1",
+              "media_key": "3_2083945821524074496",
+              "start": 45,
+              "url": "https://t.co/t1b8EwM41h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083945826351763836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 149165,
+          "like_count": 709,
+          "quote_count": 8,
+          "reply_count": 112,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "李老师不是你老师在一次采访中首次露脸。\n他的真实形象：汉族安徽小伙，山根挺拔，能量巨大。 https://t.co/t1b8EwM41h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 324,
+          "like_count": 6688,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1904
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "location": "Zagreb, Hrvatska",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11018,
+          "following_count": 938,
+          "like_count": 1569,
+          "listed_count": 46,
+          "media_count": 2769,
+          "tweet_count": 5594
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true
+      }
+    ]
+  }
+}

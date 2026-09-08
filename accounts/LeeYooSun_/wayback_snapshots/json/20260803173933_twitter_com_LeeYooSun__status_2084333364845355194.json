@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2084333364845355194",
+    "created_at": "2026-08-03T17:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084333364845355194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niuwooo/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/niuwooo/status/2084092052875424041",
+          "start": 15,
+          "url": "https://t.co/0WKQjFmOSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084333364845355194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084092052875424041",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了作息不规律以外我都能做到 https://t.co/0WKQjFmOSd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084333364845355194",
+        "created_at": "2026-08-03T17:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084333364845355194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niuwooo/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/niuwooo/status/2084092052875424041",
+              "start": 15,
+              "url": "https://t.co/0WKQjFmOSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084333364845355194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084092052875424041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了作息不规律以外我都能做到 https://t.co/0WKQjFmOSd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944739532827660289",
+        "conversation_id": "2084092052875424041",
+        "created_at": "2026-08-03T01:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084092052875424041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084092052875424041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 37570,
+          "like_count": 617,
+          "quote_count": 23,
+          "reply_count": 95,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的低需求女友，平时在家里追番，看书刷抖音打发时间，喜欢买好看的衣服，拍一点照片。\n作息规律，饿了点些外卖，情绪非常稳定，喜欢看你分享日常，你没有回复消息的时候，也不会频繁打电话催促，懒得翻你的手机，给你需要的私人空间，你需要我也会安静的听你说，你需要陪伴那我就陪着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 323,
+          "like_count": 6681,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1894
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:43:47.000Z",
+        "description": "entp大王👑\n养了一只缅因叫菠萝🍍\n无聊的生活找点有趣的事情干(^^)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/niuwoo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/niuwoo",
+                "start": 0,
+                "url": "https://t.co/WrAmWWWTiV"
+              }
+            ]
+          }
+        },
+        "id": "1944739532827660289",
+        "location": "你身边💖",
+        "name": "牛奶🥛",
+        "pinned_tweet_id": "1967592747218731433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084098525860970496/YiWJBzwh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 164,
+          "like_count": 8448,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3156
+        },
+        "url": "https://t.co/WrAmWWWTiV",
+        "username": "Niuwooo",
+        "verified": false
+      }
+    ]
+  }
+}

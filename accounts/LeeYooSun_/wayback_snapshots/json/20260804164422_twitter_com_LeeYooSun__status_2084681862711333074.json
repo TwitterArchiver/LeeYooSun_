@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2084680522991845749",
+    "created_at": "2026-08-04T16:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084681862711333074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084681862711333074",
+    "in_reply_to_user_id": "2050513602096820224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084680522991845749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回答我@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084680522991845749",
+        "created_at": "2026-08-04T16:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084681862711333074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084681862711333074",
+        "in_reply_to_user_id": "2050513602096820224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084680522991845749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回答我@grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084680522991845749",
+        "created_at": "2026-08-04T16:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084680522991845749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1720665183188922368",
+              "start": 89,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084680522991845749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n（用中文）\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 322,
+          "like_count": 6719,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1919
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8910200,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7263,
+          "media_count": 9219497,
+          "tweet_count": 133967116
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

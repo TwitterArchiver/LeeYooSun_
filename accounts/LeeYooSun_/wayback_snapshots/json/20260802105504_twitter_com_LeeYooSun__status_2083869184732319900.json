@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083869184732319900",
+    "created_at": "2026-08-02T10:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083869184732319900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/f_chust/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/f_chust/status/2083713054059921745",
+          "start": 5,
+          "url": "https://t.co/ECfQ7DWuDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083869184732319900",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083713054059921745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像郭子姐 https://t.co/ECfQ7DWuDa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2083713048921948160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOrV-l7WwAAUjGT.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083869184732319900",
+        "created_at": "2026-08-02T10:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083869184732319900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/f_chust/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/f_chust/status/2083713054059921745",
+              "start": 5,
+              "url": "https://t.co/ECfQ7DWuDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869184732319900",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083713054059921745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像郭子姐 https://t.co/ECfQ7DWuDa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083713048921948160"
+          ]
+        },
+        "author_id": "1951664452970991616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083713054059921745",
+        "created_at": "2026-08-02T00:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T01:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083713054059921745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g2HxFASraB",
+              "end": 68,
+              "expanded_url": "https://x.com/F_chust/status/2083713054059921745/photo/1",
+              "media_key": "3_2083713048921948160",
+              "start": 45,
+              "url": "https://t.co/g2HxFASraB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083713054059921745",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 130605,
+          "like_count": 16166,
+          "quote_count": 62,
+          "reply_count": 5,
+          "retweet_count": 3173
+        },
+        "reply_settings": "everyone",
+        "text": "Lo que ve mi mamá cuando pasa por mi cuarto: https://t.co/g2HxFASraB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 321,
+          "like_count": 6617,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T15:20:47.000Z",
+        "description": "⁺⋆.˚𐙚 flop ࣪ ִֶָ.₊˚",
+        "id": "1951664452970991616",
+        "name": "⋆𝐅𝒊˚✮⋆˙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083338709382909952/91tZwrXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "F_chust",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086281891653820625",
+    "created_at": "2026-08-09T02:42:18.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T03:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086281891653820625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akino_qwq/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/akino_qwq/status/2086069536307265931",
+          "start": 11,
+          "url": "https://t.co/yhwRbFzF84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086281891653820625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086069536307265931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发病be like https://t.co/yhwRbFzF84"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19358,
+        "height": 1280,
+        "media_key": "13_2086069459266187264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086069459266187264/img/-oKNJCgJyNidalAU.jpg",
+        "public_metrics": {
+          "view_count": 268197
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/320x568/QadhvkTg9VTAqHfL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/480x852/8zr_-oNL_pp9vOLo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/vid/avc1/720x1280/o1w9vBgrjN-N9oEC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086069459266187264/pl/hEuhnxtt9JyR8PyD.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086069459270488065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPM1Huib0AEBcHy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086281891653820625",
+        "created_at": "2026-08-09T02:42:18.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086281891653820625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akino_qwq/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/akino_qwq/status/2086069536307265931",
+              "start": 11,
+              "url": "https://t.co/yhwRbFzF84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086281891653820625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086069536307265931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发病be like https://t.co/yhwRbFzF84"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086069459266187264",
+            "3_2086069459270488065"
+          ]
+        },
+        "author_id": "1271512602145730560",
+        "conversation_id": "2086069536307265931",
+        "created_at": "2026-08-08T12:38:29.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T13:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086069536307265931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 39,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "13_2086069459266187264",
+              "start": 16,
+              "url": "https://t.co/106yczYVFL"
+            },
+            {
+              "display_url": "pic.x.com/106yczYVFL",
+              "end": 39,
+              "expanded_url": "https://x.com/Akino_QwQ/status/2086069536307265931/video/1",
+              "media_key": "3_2086069459270488065",
+              "start": 16,
+              "url": "https://t.co/106yczYVFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086069536307265931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2086069459266187264"
+          },
+          {
+            "media_key": "3_2086069459270488065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 393942,
+          "like_count": 956,
+          "quote_count": 7,
+          "reply_count": 237,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "索尼罪大滔天\n诱发双相情感障碍 https://t.co/106yczYVFL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2086281891653820625",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1784926702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 330,
+          "like_count": 7260,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！🚪（？）/持证含糖友跨顺猫/想变可爱/收破烂的/Maimai/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/医疗电子/拆机/LLer/火车迷/mc原版/化学已/ADHD/想od/想要5HT2A激动剂/不键政!/对象(不混圈)/主人@HoshinoMako0131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "HoshinoMako0131"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "is_identity_verified": false,
+        "location": "华立科技展厅",
+        "most_recent_tweet_id": "2086147325874130993",
+        "name": "一定不是银喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271512602145730560/1674706633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011153409378754560/HMEgRHqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 953,
+          "like_count": 18712,
+          "listed_count": 11,
+          "media_count": 681,
+          "tweet_count": 4007
+        },
+        "url": "",
+        "username": "Akino_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

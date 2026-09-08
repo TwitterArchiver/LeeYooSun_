@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085510075586953701",
+    "created_at": "2026-08-06T23:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T00:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085510075586953701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovedarksoul/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/lovedarksoul/status/2085455875267874909",
+          "start": 5,
+          "url": "https://t.co/3cv1d0SjSj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085510075586953701",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085455875267874909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鱼缸少女 https://t.co/3cv1d0SjSj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2085429012839493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDuo1qXcAAlyrH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085510075586953701",
+        "created_at": "2026-08-06T23:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T00:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085510075586953701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovedarksoul/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/lovedarksoul/status/2085455875267874909",
+              "start": 5,
+              "url": "https://t.co/3cv1d0SjSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085510075586953701",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085455875267874909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鱼缸少女 https://t.co/3cv1d0SjSj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085429012839493632"
+          ]
+        },
+        "author_id": "2010417524526260224",
+        "conversation_id": "2085455875267874909",
+        "created_at": "2026-08-06T20:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085455875267874909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PyaJzVewu",
+              "end": 23,
+              "expanded_url": "https://x.com/lovedarksoul/status/2085455875267874909/photo/1",
+              "media_key": "3_2085429012839493632",
+              "start": 0,
+              "url": "https://t.co/1PyaJzVewu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085455875267874909",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1142,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1PyaJzVewu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 324,
+          "like_count": 6927,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1972
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T18:24:35.000Z",
+        "description": "Plin plin plon",
+        "id": "2010417524526260224",
+        "name": "lovedarksoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077431795960737792/95ZTe92s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43273,
+          "following_count": 23,
+          "like_count": 1336,
+          "listed_count": 79,
+          "media_count": 1620,
+          "tweet_count": 1627
+        },
+        "url": "",
+        "username": "lovedarksoul",
+        "verified": true
+      }
+    ]
+  }
+}

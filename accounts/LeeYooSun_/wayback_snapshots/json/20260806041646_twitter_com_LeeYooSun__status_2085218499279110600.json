@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085218499279110600",
+    "created_at": "2026-08-06T04:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085218499279110600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko8964_0214/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/neko8964_0214/status/2084912562001588607",
+          "start": 12,
+          "url": "https://t.co/SKtSZiuphf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085218499279110600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084912562001588607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "艾教授最近怎么不说话了 https://t.co/SKtSZiuphf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9551,
+        "height": 1280,
+        "media_key": "13_2084912524970061824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084912524970061824/img/xjJgTFs12NgZfDO5.jpg",
+        "public_metrics": {
+          "view_count": 1068
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084912524970061824/vid/avc1/320x568/eNyubUvcZnG5lOWe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084912524970061824/vid/avc1/480x852/16oXTZ7LQETrZ1eu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084912524970061824/vid/avc1/720x1280/3UYgXjpDxfcWYs8c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084912524970061824/pl/tnzmjhVhgf6-BbjE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085218499279110600",
+        "created_at": "2026-08-06T04:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085218499279110600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko8964_0214/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/neko8964_0214/status/2084912562001588607",
+              "start": 12,
+              "url": "https://t.co/SKtSZiuphf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085218499279110600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084912562001588607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "艾教授最近怎么不说话了 https://t.co/SKtSZiuphf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084912524970061824"
+          ]
+        },
+        "author_id": "1880632778141921282",
+        "conversation_id": "2084912562001588607",
+        "created_at": "2026-08-05T08:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084912562001588607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ8LqgYEBW",
+              "end": 23,
+              "expanded_url": "https://x.com/neko8964_0214/status/2084912562001588607/video/1",
+              "media_key": "13_2084912524970061824",
+              "start": 0,
+              "url": "https://t.co/hQ8LqgYEBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084912562001588607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2027,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hQ8LqgYEBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 323,
+          "like_count": 6841,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1950
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T15:06:23.000Z",
+        "description": "鹤青辞/neko｜鹤梦｜一般⬅️人｜不吵架 不撕逼",
+        "id": "1880632778141921282",
+        "location": "中南海",
+        "name": "鹤青辞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074541154625044480/iMPhQyZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 241,
+          "like_count": 1852,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 761
+        },
+        "url": "",
+        "username": "neko8964_0214",
+        "verified": false
+      }
+    ]
+  }
+}

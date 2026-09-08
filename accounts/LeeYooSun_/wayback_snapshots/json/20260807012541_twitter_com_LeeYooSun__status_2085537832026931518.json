@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085537832026931518",
+    "created_at": "2026-08-07T01:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T02:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085537832026931518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/faunaworld99/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/faunaworld99/status/2085395347262812222",
+          "start": 9,
+          "url": "https://t.co/qnYM72s0NQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085537832026931518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085395347262812222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一怒之下怒了一下 https://t.co/qnYM72s0NQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30400,
+        "height": 1280,
+        "media_key": "13_2085395189917736960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085395189917736960/img/D8Sibg4Oa4kX30zq.jpg",
+        "public_metrics": {
+          "view_count": 4788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085395189917736960/vid/avc1/320x568/3sZOyv1xTduDy9RR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085395189917736960/vid/avc1/480x852/WPKt52V44xTId0Ak.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085395189917736960/vid/avc1/720x1280/Nqyxf_h_ZZC2dsps.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085395189917736960/pl/8Vmr9TY1rz5oxVGc.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085537832026931518",
+        "created_at": "2026-08-07T01:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T02:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085537832026931518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/faunaworld99/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/faunaworld99/status/2085395347262812222",
+              "start": 9,
+              "url": "https://t.co/qnYM72s0NQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085537832026931518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085395347262812222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一怒之下怒了一下 https://t.co/qnYM72s0NQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085395189917736960"
+          ]
+        },
+        "author_id": "2029805493036929026",
+        "conversation_id": "2085395347262812222",
+        "created_at": "2026-08-06T15:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085395347262812222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpgPSN2vCW",
+              "end": 23,
+              "expanded_url": "https://x.com/Faunaworld99/status/2085395347262812222/video/1",
+              "media_key": "13_2085395189917736960",
+              "start": 0,
+              "url": "https://t.co/dpgPSN2vCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085395347262812222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 18145,
+          "like_count": 756,
+          "quote_count": 11,
+          "reply_count": 2,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dpgPSN2vCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 324,
+          "like_count": 6941,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T06:25:31.000Z",
+        "description": "Rabbit Lover 🐰 Pet Videos \nDaily Cute Bunny Moments\nSmile with Animals ❤️\n🇦🇺🇦🇮🇧🇷🇨🇰🇬🇧🇮🇳🇱🇰",
+        "id": "2029805493036929026",
+        "name": "Popularrabbit",
+        "pinned_tweet_id": "2069233510922272955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029806349849350145/HKHrHYFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6817,
+          "following_count": 7499,
+          "like_count": 3067,
+          "listed_count": 11,
+          "media_count": 3658,
+          "tweet_count": 4696
+        },
+        "url": "",
+        "username": "Faunaworld99",
+        "verified": true
+      }
+    ]
+  }
+}

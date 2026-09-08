@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086715513909166151",
+    "created_at": "2026-08-10T07:25:22.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086715513909166151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raimu_nex/stat…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/raimu_nex/status/2086275333171695736",
+          "start": 14,
+          "url": "https://t.co/i3iOkzsxNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086715513909166151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086275333171695736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点像我们小学科学课的教室 https://t.co/i3iOkzsxNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2086275327987511296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPPwW3RbcAAnIuT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086715513909166151",
+        "created_at": "2026-08-10T07:25:22.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086715513909166151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raimu_nex/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/raimu_nex/status/2086275333171695736",
+              "start": 14,
+              "url": "https://t.co/i3iOkzsxNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086715513909166151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086275333171695736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像我们小学科学课的教室 https://t.co/i3iOkzsxNl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086275327987511296"
+          ]
+        },
+        "author_id": "1655129656960630788",
+        "conversation_id": "2086275333171695736",
+        "created_at": "2026-08-09T02:16:15.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T03:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086275333171695736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/012c0eRQim",
+              "end": 46,
+              "expanded_url": "https://x.com/Raimu_nex/status/2086275333171695736/photo/1",
+              "media_key": "3_2086275327987511296",
+              "start": 23,
+              "url": "https://t.co/012c0eRQim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086275333171695736",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086275327987511296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 825,
+          "impression_count": 1251260,
+          "like_count": 41911,
+          "quote_count": 2795,
+          "reply_count": 194,
+          "retweet_count": 2632
+        },
+        "reply_settings": "everyone",
+        "text": "みんな中学校の理科室こんな感じだった人いる？ https://t.co/012c0eRQim"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "诡异的自由在别样的生成中抵达//#drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SIsWtJ"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2086715513909166151",
+        "name": "仅此而已的故事🎶",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1786326747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 330,
+          "like_count": 7390,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2077
+        },
+        "url": "https://t.co/Q2C2SIsWtJ",
+        "username": "LeeYooSun_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-07T08:37:21.000Z",
+        "description": "06世代｜ 男子専門学生！\n主に昭和~平成の懐かしい物・番組・小学校あるあるを毎日発信中！たまにネタツイ\n気軽に絡んでくれると嬉しいです！画像は拾い画です\nたまにX運用ツイートしてます！たまにフォロバ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@raimu_nex?_r=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@raimu_nex?_r=1&_t=ZS-981NsEClZbB",
+                "start": 0,
+                "url": "https://t.co/bpOTPR3JwK"
+              }
+            ]
+          }
+        },
+        "id": "1655129656960630788",
+        "is_identity_verified": true,
+        "location": "百バズ×200 千バズ×40 万バズ15 十万バズ0",
+        "most_recent_tweet_id": "2086678931139379607",
+        "name": "らむ@懐かしいネタ垢",
+        "pinned_tweet_id": "2086275333171695736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1655129656960630788/1786059213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075346169765761024/n2chtAw-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11647,
+          "following_count": 9781,
+          "like_count": 24665,
+          "listed_count": 10,
+          "media_count": 1881,
+          "tweet_count": 9470
+        },
+        "url": "https://t.co/bpOTPR3JwK",
+        "username": "Raimu_nex",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

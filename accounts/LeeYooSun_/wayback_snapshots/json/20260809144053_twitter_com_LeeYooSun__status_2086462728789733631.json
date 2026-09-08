@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086438780618301494",
+    "created_at": "2026-08-09T14:40:53.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T15:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086462728789733631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2023707996623437824",
+          "start": 0,
+          "username": "GoneAngels8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086462728789733631",
+    "in_reply_to_user_id": "2023707996623437824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086438780618301494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoneAngels8964 搂着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086438780618301494",
+        "created_at": "2026-08-09T14:40:53.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086462728789733631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023707996623437824",
+              "start": 0,
+              "username": "GoneAngels8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086462728789733631",
+        "in_reply_to_user_id": "2023707996623437824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086438780618301494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoneAngels8964 搂着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023707996623437824",
+        "conversation_id": "2086438780618301494",
+        "created_at": "2026-08-09T13:05:44.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086438780618301494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086438780618301494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "困困咪吃了氯硝西泮"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2086462728789733631",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1784926702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 328,
+          "like_count": 7293,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2056
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-17T10:36:10.000Z",
+        "description": "一個極品美男子",
+        "id": "2023707996623437824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086445726838718618",
+        "name": "小Lain",
+        "pinned_tweet_id": "2086002131673461235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023707996623437824/1785839737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074121290160721921/8CGYVHIL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 116,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "GoneAngels8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

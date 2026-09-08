@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086246946587709532",
+    "created_at": "2026-08-09T00:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-09T01:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086246946587709532"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/animalpopular9…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/animalpopular9/status/2085912554120032616",
+          "start": 20,
+          "url": "https://t.co/jRuVa7Piko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086246946587709532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085912554120032616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "图为1959年，宝宝党党员们的简单一餐 https://t.co/jRuVa7Piko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2085912547304386560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPKmaP6bsAAX_fv.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086246946587709532",
+        "created_at": "2026-08-09T00:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-09T01:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086246946587709532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/animalpopular9…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/animalpopular9/status/2085912554120032616",
+              "start": 20,
+              "url": "https://t.co/jRuVa7Piko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086246946587709532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085912554120032616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "图为1959年，宝宝党党员们的简单一餐 https://t.co/jRuVa7Piko"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085912547304386560"
+          ]
+        },
+        "author_id": "1609910097949646850",
+        "conversation_id": "2085912554120032616",
+        "created_at": "2026-08-08T02:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T03:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085912554120032616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvI8ALVbKC",
+              "end": 23,
+              "expanded_url": "https://x.com/animalpopular9/status/2085912554120032616/photo/1",
+              "media_key": "3_2085912547304386560",
+              "start": 0,
+              "url": "https://t.co/MvI8ALVbKC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085912554120032616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 7210,
+          "like_count": 585,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MvI8ALVbKC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 329,
+          "like_count": 7239,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2051
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:51:29.000Z",
+        "description": "Welcome to animal club We share daily #animals contents follow us if you really Love animal.we own no content posted.all credit goes to respected orginal owner",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 38,
+                "tag": "animals"
+              }
+            ]
+          }
+        },
+        "id": "1609910097949646850",
+        "name": "thepopularanimals",
+        "pinned_tweet_id": "2084789474769400053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027074400701579264/KmwfkliJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17295,
+          "following_count": 10822,
+          "like_count": 30906,
+          "listed_count": 83,
+          "media_count": 8683,
+          "tweet_count": 12704
+        },
+        "url": "",
+        "username": "animalpopular9",
+        "verified": true
+      }
+    ]
+  }
+}

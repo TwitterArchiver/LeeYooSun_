@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085717165265867205",
+    "created_at": "2026-08-07T13:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085717165265867205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/popularrabbit/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/popularrabbit/status/2085625114184572984",
+          "start": 8,
+          "url": "https://t.co/IwuDxBKAt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085717165265867205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085625114184572984",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥请你们吃大餐 https://t.co/IwuDxBKAt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6233,
+        "height": 1280,
+        "media_key": "13_2085625089098502144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085625089098502144/img/4t9SnlBWa9PYFD5q.jpg",
+        "public_metrics": {
+          "view_count": 1184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085625089098502144/vid/avc1/320x568/Wk2EAbQIMsEGQCfU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085625089098502144/vid/avc1/480x852/mvNoeVxdKjGxMLMW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085625089098502144/vid/avc1/720x1280/yyYPYyHL7OO_3J_p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085625089098502144/pl/kJ0sBYqi_GMk7HPE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085717165265867205",
+        "created_at": "2026-08-07T13:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085717165265867205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/popularrabbit/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/popularrabbit/status/2085625114184572984",
+              "start": 8,
+              "url": "https://t.co/IwuDxBKAt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085717165265867205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085625114184572984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥请你们吃大餐 https://t.co/IwuDxBKAt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085625089098502144"
+          ]
+        },
+        "author_id": "1692220360052400129",
+        "conversation_id": "2085625114184572984",
+        "created_at": "2026-08-07T07:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085625114184572984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXPo90VHOC",
+              "end": 23,
+              "expanded_url": "https://x.com/popularrabbit/status/2085625114184572984/video/1",
+              "media_key": "13_2085625089098502144",
+              "start": 0,
+              "url": "https://t.co/FXPo90VHOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085625114184572984",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4736,
+          "like_count": 248,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FXPo90VHOC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 326,
+          "like_count": 7014,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1997
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T17:03:11.000Z",
+        "description": "",
+        "id": "1692220360052400129",
+        "name": "popular",
+        "pinned_tweet_id": "2084003092094505050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007455190899929092/O8jyJRgI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11133,
+          "following_count": 5632,
+          "like_count": 4415,
+          "listed_count": 34,
+          "media_count": 3599,
+          "tweet_count": 5900
+        },
+        "url": "",
+        "username": "popularrabbit",
+        "verified": true
+      }
+    ]
+  }
+}

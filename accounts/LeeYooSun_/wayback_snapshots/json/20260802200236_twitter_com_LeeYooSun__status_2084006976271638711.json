@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083760244191367168"
+      ],
+      "media_source_tweet_id": [
+        "2083760249492910267"
+      ]
+    },
+    "author_id": "2050513602096820224",
+    "conversation_id": "2084006976271638711",
+    "created_at": "2026-08-02T20:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084006976271638711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2016028559228469252",
+          "start": 3,
+          "username": "Alvvays8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rS5n9nvgwl",
+          "end": 61,
+          "expanded_url": "https://x.com/Alvvaysioffy1/status/2083760249492910267/photo/1",
+          "media_key": "3_2083760244191367168",
+          "start": 38,
+          "url": "https://t.co/rS5n9nvgwl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084006976271638711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083760249492910267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Alvvays8964: 我跟我姑姑的聊天记录，谁都不许道德绑架我 https://t.co/rS5n9nvgwl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2083760244191367168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsA5uAbkAAWADS.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083760244191367168"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2083760249492910267",
+        "created_at": "2026-08-02T03:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083760249492910267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS5n9nvgwl",
+              "end": 44,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2083760249492910267/photo/1",
+              "media_key": "3_2083760244191367168",
+              "start": 21,
+              "url": "https://t.co/rS5n9nvgwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083760249492910267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 342097,
+          "like_count": 3684,
+          "quote_count": 6,
+          "reply_count": 366,
+          "retweet_count": 53
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我跟我姑姑的聊天记录，谁都不许道德绑架我 https://t.co/rS5n9nvgwl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083760244191367168"
+          ],
+          "media_source_tweet_id": [
+            "2083760249492910267"
+          ]
+        },
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084006976271638711",
+        "created_at": "2026-08-02T20:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084006976271638711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2016028559228469252",
+              "start": 3,
+              "username": "Alvvays8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS5n9nvgwl",
+              "end": 61,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2083760249492910267/photo/1",
+              "media_key": "3_2083760244191367168",
+              "start": 38,
+              "url": "https://t.co/rS5n9nvgwl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084006976271638711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083760249492910267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Alvvays8964: 我跟我姑姑的聊天记录，谁都不许道德绑架我 https://t.co/rS5n9nvgwl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 322,
+          "like_count": 6690,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1888
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 242,
+          "like_count": 1868,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1136
+        },
+        "url": "",
+        "username": "Alvvays8964",
+        "verified": false
+      }
+    ]
+  }
+}

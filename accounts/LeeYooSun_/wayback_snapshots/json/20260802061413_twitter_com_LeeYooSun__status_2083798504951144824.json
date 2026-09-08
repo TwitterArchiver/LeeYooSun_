@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083798504951144824",
+    "created_at": "2026-08-02T06:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083798504951144824"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083798504951144824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知道我做的梦多么逆天吗，梦见我跟一群高中同学还有小学同学去网吧，到第二次的时候警察来抽查我惨遭被查到，气得我直接顺走了抽屉里的一板一大串名字的药还有一板吃剩下的氯氨酮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083798504951144824",
+        "created_at": "2026-08-02T06:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083798504951144824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083798504951144824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道我做的梦多么逆天吗，梦见我跟一群高中同学还有小学同学去网吧，到第二次的时候警察来抽查我惨遭被查到，气得我直接顺走了抽屉里的一板一大串名字的药还有一板吃剩下的氯氨酮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 319,
+          "like_count": 6600,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1865
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      }
+    ]
+  }
+}

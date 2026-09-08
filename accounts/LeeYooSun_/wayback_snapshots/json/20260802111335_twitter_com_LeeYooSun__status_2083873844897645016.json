@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083873844897645016",
+    "created_at": "2026-08-02T11:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083873844897645016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ihatefraudjo/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ihatefraudjo/status/2083661398480216146",
+          "start": 10,
+          "url": "https://t.co/87QPJcwfFf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083873844897645016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083661398480216146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又让我给刷到虎哥了 https://t.co/87QPJcwfFf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17182,
+        "height": 406,
+        "media_key": "7_2083661364598628352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2083661364598628352/pu/img/1a_swTob_uBHHV09.jpg",
+        "public_metrics": {
+          "view_count": 46597
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/320x360/iqCxI3T-guJjqCnh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/vid/avc1/360x406/KOAZrHnfjPuSYuAz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2083661364598628352/pu/pl/sQLAagwFXn8QM7dJ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083873844897645016",
+        "created_at": "2026-08-02T11:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083873844897645016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ihatefraudjo/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ihatefraudjo/status/2083661398480216146",
+              "start": 10,
+              "url": "https://t.co/87QPJcwfFf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083873844897645016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083661398480216146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又让我给刷到虎哥了 https://t.co/87QPJcwfFf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2083661364598628352"
+          ]
+        },
+        "author_id": "1704478371739054080",
+        "conversation_id": "2083661398480216146",
+        "created_at": "2026-08-01T21:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083661398480216146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRCKteeMLm",
+              "end": 23,
+              "expanded_url": "https://x.com/ihatefraudjo/status/2083661398480216146/video/1",
+              "media_key": "7_2083661364598628352",
+              "start": 0,
+              "url": "https://t.co/WRCKteeMLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083661398480216146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 573,
+          "impression_count": 125197,
+          "like_count": 3140,
+          "quote_count": 120,
+          "reply_count": 0,
+          "retweet_count": 667
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/WRCKteeMLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 321,
+          "like_count": 6621,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1871
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:51:33.000Z",
+        "description": "",
+        "id": "1704478371739054080",
+        "location": "Kernersville, NC",
+        "name": "thatguy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704478806797377537/zBMCYT_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 2,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "ihatefraudjo",
+        "verified": false
+      }
+    ]
+  }
+}

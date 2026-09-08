@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085703738896032082",
+    "created_at": "2026-08-07T12:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085703738896032082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 102,
+          "id": "1720665183188922368",
+          "start": 97,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085703738896032082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "根据我的推文，我是：\n- 哪位獨裁者？\n- 哪位哲學家？\n- 哪位虛構人物？\n- 哪位政治家？\n- 哪位宗教人物？\n- 哪位歷史人物？\n- 哪位藝術家？\n请给出真实可查的人名，不限国籍不限年代\n@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085703738896032082",
+        "created_at": "2026-08-07T12:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085703738896032082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "1720665183188922368",
+              "start": 97,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085703738896032082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "根据我的推文，我是：\n- 哪位獨裁者？\n- 哪位哲學家？\n- 哪位虛構人物？\n- 哪位政治家？\n- 哪位宗教人物？\n- 哪位歷史人物？\n- 哪位藝術家？\n请给出真实可查的人名，不限国籍不限年代\n@grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 324,
+          "like_count": 7007,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1996
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8930289,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7280,
+          "media_count": 9231453,
+          "tweet_count": 134723334
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

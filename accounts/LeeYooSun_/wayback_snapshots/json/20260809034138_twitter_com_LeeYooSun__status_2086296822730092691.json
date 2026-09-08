@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086296822730092691",
+    "created_at": "2026-08-09T03:41:38.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T04:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086296822730092691"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ipattt/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ipattt/status/2085950618137743494",
+          "start": 23,
+          "url": "https://t.co/6Q8XzJ2KTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086296822730092691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085950618137743494",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "代入一下无论是清洁工还是这个人都好绝望，，， https://t.co/6Q8XzJ2KTW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085950608000053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPLJBrDacAAr71u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086296822730092691",
+        "created_at": "2026-08-09T03:41:38.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086296822730092691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ipattt/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ipattt/status/2085950618137743494",
+              "start": 23,
+              "url": "https://t.co/6Q8XzJ2KTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086296822730092691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085950618137743494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "代入一下无论是清洁工还是这个人都好绝望，，， https://t.co/6Q8XzJ2KTW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085950608000053248"
+          ]
+        },
+        "author_id": "14458023",
+        "conversation_id": "2085950618137743494",
+        "created_at": "2026-08-08T04:45:57.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T05:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085950618137743494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G55a4GZrgy",
+              "end": 188,
+              "expanded_url": "https://x.com/iPattt/status/2085950618137743494/photo/1",
+              "media_key": "3_2085950608000053248",
+              "start": 165,
+              "url": "https://t.co/G55a4GZrgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085950618137743494",
+        "lang": "th",
+        "media_metadata": [
+          {
+            "media_key": "3_2085950608000053248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 861,
+          "impression_count": 2164741,
+          "like_count": 5288,
+          "quote_count": 187,
+          "reply_count": 558,
+          "retweet_count": 3169
+        },
+        "reply_settings": "everyone",
+        "text": "11:43 น. จุดพักรถมอเตอร์เวย์หนองรี  คนจีนอึแตก ถอดกางเกงโป๊ท่อนล่าง มาล้างกางเกงเปื้อนอึในอ่างล้างหน้า โคตรเหม็น มีอึกองอยู่บนพื้นห้องน้ำด้วย เห็นใจคนทำความสะอาดเลย https://t.co/G55a4GZrgy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "is_identity_verified": false,
+        "location": "Laird No. 404, Saskatchewan",
+        "most_recent_tweet_id": "2086296822730092691",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050513602096820224/1784926702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 330,
+          "like_count": 7271,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-04-21T03:39:17.000Z",
+        "description": "",
+        "id": "14458023",
+        "is_identity_verified": false,
+        "location": "Si-lom Bangkok",
+        "most_recent_tweet_id": "2085950618137743494",
+        "name": "pat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14458023/1586875824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720116368308334592/15-Uv9jy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575381,
+          "following_count": 1878,
+          "like_count": 1709,
+          "listed_count": 376,
+          "media_count": 21757,
+          "tweet_count": 211321
+        },
+        "url": "",
+        "username": "iPattt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

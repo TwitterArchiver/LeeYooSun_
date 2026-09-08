@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083895016662147319",
+    "created_at": "2026-08-02T12:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083895016662147319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fireimages/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/fireimages/status/2083599030177644805",
+          "start": 3,
+          "url": "https://t.co/A9haJ228Af"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083895016662147319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083599030177644805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芝麻 https://t.co/A9haJ228Af"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 618,
+        "media_key": "3_2083599026969010176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpuRpDWYAAGptO.jpg",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083895016662147319",
+        "created_at": "2026-08-02T12:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083895016662147319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fireimages/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/fireimages/status/2083599030177644805",
+              "start": 3,
+              "url": "https://t.co/A9haJ228Af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083895016662147319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083599030177644805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芝麻 https://t.co/A9haJ228Af"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083599026969010176"
+          ]
+        },
+        "author_id": "1837363634189598720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083599030177644805",
+        "created_at": "2026-08-01T17:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083599030177644805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mt7qOlKAIW",
+              "end": 23,
+              "expanded_url": "https://x.com/fireimages/status/2083599030177644805/photo/1",
+              "media_key": "3_2083599026969010176",
+              "start": 0,
+              "url": "https://t.co/mt7qOlKAIW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083599030177644805",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 43796,
+          "like_count": 5735,
+          "quote_count": 29,
+          "reply_count": 43,
+          "retweet_count": 429
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mt7qOlKAIW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 321,
+          "like_count": 6647,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1875
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T05:30:09.000Z",
+        "description": "dm submissions",
+        "id": "1837363634189598720",
+        "location": "🔥 ",
+        "name": "fire images",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886913582324965376/JEl0IAju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28981,
+          "following_count": 0,
+          "like_count": 3911,
+          "listed_count": 36,
+          "media_count": 319,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "fireimages",
+        "verified": true
+      }
+    ]
+  }
+}

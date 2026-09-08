@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2083635003062452723",
+    "created_at": "2026-08-01T19:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083635003062452723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1325353249008877569",
+          "start": 3,
+          "username": "polen_ball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083635003062452723",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 957
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083510804423524739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @polen_ball: I love twitter because you can completely hide the fact that you're a socially inept loser by pretending that you're just s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2083635003062452723",
+        "created_at": "2026-08-01T19:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083635003062452723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1325353249008877569",
+              "start": 3,
+              "username": "polen_ball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083635003062452723",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 957
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083510804423524739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @polen_ball: I love twitter because you can completely hide the fact that you're a socially inept loser by pretending that you're just s…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1325353249008877569",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2083510804423524739",
+        "created_at": "2026-08-01T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083510804423524739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083510804423524739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 588,
+          "impression_count": 104066,
+          "like_count": 7404,
+          "quote_count": 143,
+          "reply_count": 75,
+          "retweet_count": 957
+        },
+        "reply_settings": "everyone",
+        "text": "I love twitter because you can completely hide the fact that you're a socially inept loser by pretending that you're just some cool guy who drops a really agreeable and well-formulated sentence every 3 hours"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 318,
+          "like_count": 6600,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-08T08:23:47.000Z",
+        "description": "🚩💛🤍💜🖤 ‣ FEMINISM • LGBTQ RIGHTS • ANTI-IMPERIALISM🔻🇵🇸🇺🇦🇸🇩🇨🇩 ⦿ #yuritwt #musictwt — i hate campists, nationalists & chuds 🚫 follow ≠ endorse, ask for fb",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "yuritwt"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "musictwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polenball.straw.page",
+                "end": 23,
+                "expanded_url": "http://polenball.straw.page",
+                "start": 0,
+                "url": "https://t.co/CG10WXFFSw"
+              }
+            ]
+          }
+        },
+        "id": "1325353249008877569",
+        "location": "伟大的祖国📍🇨🇳 土澳🇦🇺",
+        "name": "polen",
+        "pinned_tweet_id": "2075643973650268587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258375406620672/yBUuOb7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 1372,
+          "like_count": 62479,
+          "listed_count": 28,
+          "media_count": 875,
+          "tweet_count": 16476
+        },
+        "url": "https://t.co/CG10WXFFSw",
+        "username": "polen_ball",
+        "verified": false
+      }
+    ]
+  }
+}

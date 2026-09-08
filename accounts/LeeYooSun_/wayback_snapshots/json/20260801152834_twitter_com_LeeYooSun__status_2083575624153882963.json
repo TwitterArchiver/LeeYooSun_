@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083575624153882963",
+    "created_at": "2026-08-01T15:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083575624153882963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bunnies/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/bunnies/status/2083558325330080023",
+          "start": 14,
+          "url": "https://t.co/8axLatG4O8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083575624153882963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083558325330080023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发怒的班主任和瑟瑟发抖的你 https://t.co/8axLatG4O8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 379,
+        "media_key": "3_2083558321093787648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpJQP2awAADoFa.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083575624153882963",
+        "created_at": "2026-08-01T15:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083575624153882963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bunnies/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/bunnies/status/2083558325330080023",
+              "start": 14,
+              "url": "https://t.co/8axLatG4O8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083575624153882963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083558325330080023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发怒的班主任和瑟瑟发抖的你 https://t.co/8axLatG4O8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083558321093787648"
+          ]
+        },
+        "author_id": "785965953490182146",
+        "conversation_id": "2083558325330080023",
+        "created_at": "2026-08-01T14:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083558325330080023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0GlVzt3n2",
+              "end": 23,
+              "expanded_url": "https://x.com/Bunnies/status/2083558325330080023/photo/1",
+              "media_key": "3_2083558321093787648",
+              "start": 0,
+              "url": "https://t.co/r0GlVzt3n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083558325330080023",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 4310,
+          "like_count": 200,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r0GlVzt3n2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 316,
+          "like_count": 6578,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1852
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-11T22:11:00.000Z",
+        "description": "A bunny a day will keep the doctor away. DM YOUR BUNNY!",
+        "id": "785965953490182146",
+        "location": "Burrow",
+        "name": "Bunnies",
+        "pinned_tweet_id": "1847677551604281411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190553059010793473/bY5QStG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122885,
+          "following_count": 131,
+          "like_count": 16962,
+          "listed_count": 295,
+          "media_count": 11198,
+          "tweet_count": 12406
+        },
+        "url": "",
+        "username": "Bunnies",
+        "verified": true
+      }
+    ]
+  }
+}

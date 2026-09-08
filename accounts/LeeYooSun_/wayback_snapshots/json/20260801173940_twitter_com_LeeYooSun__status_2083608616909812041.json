@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083608616909812041",
+    "created_at": "2026-08-01T17:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083608616909812041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoushould65…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/whyyoushould65/status/2083360416227606641",
+          "start": 13,
+          "url": "https://t.co/NO3vZPcr5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083608616909812041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083360416227606641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以后也要养这么一群宝宝 https://t.co/NO3vZPcr5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57910,
+        "height": 1280,
+        "media_key": "13_2083360325819396096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083360325819396096/img/da0gGIvHHyZk8Ey5.jpg",
+        "public_metrics": {
+          "view_count": 2777
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083360325819396096/vid/avc1/320x568/xnnI4Ksm2H0OhkrS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083360325819396096/vid/avc1/480x852/63HTHopFYA5_aTgF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083360325819396096/vid/avc1/720x1280/sVMSkQHgdOtDcWUA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083360325819396096/pl/uZiyY6cLZzh_ayc3.m3u8?v=437"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083608616909812041",
+        "created_at": "2026-08-01T17:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083608616909812041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoushould65…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/whyyoushould65/status/2083360416227606641",
+              "start": 13,
+              "url": "https://t.co/NO3vZPcr5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083608616909812041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083360416227606641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以后也要养这么一群宝宝 https://t.co/NO3vZPcr5w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083360325819396096"
+          ]
+        },
+        "author_id": "1704931018455863296",
+        "conversation_id": "2083360416227606641",
+        "created_at": "2026-08-01T01:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083360416227606641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ld4MKuQzeg",
+              "end": 23,
+              "expanded_url": "https://x.com/whyyoushould65/status/2083360416227606641/video/1",
+              "media_key": "13_2083360325819396096",
+              "start": 0,
+              "url": "https://t.co/Ld4MKuQzeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083360416227606641",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 11591,
+          "like_count": 702,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ld4MKuQzeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 317,
+          "like_count": 6591,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1861
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-21T18:50:59.000Z",
+        "description": "Follow for daily bunnies cuteness:🐰✨💞",
+        "id": "1704931018455863296",
+        "name": "WHY YOU SHOULD HAVE A BUNNIES",
+        "pinned_tweet_id": "2074094069509415211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038217725894701056/AvPUGfL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10556,
+          "following_count": 5730,
+          "like_count": 2491,
+          "listed_count": 22,
+          "media_count": 1981,
+          "tweet_count": 3149
+        },
+        "url": "",
+        "username": "whyyoushould65",
+        "verified": true
+      }
+    ]
+  }
+}

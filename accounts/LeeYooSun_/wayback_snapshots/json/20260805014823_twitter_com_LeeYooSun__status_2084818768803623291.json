@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2084818768803623291",
+    "created_at": "2026-08-05T01:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T02:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084818768803623291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964tou1234567…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/8964tou12345678/status/2084627827379339480",
+          "start": 9,
+          "url": "https://t.co/EfVg5lGmu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084818768803623291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084627827379339480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真绷不住了，，， https://t.co/EfVg5lGmu6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2084818768803623291",
+        "created_at": "2026-08-05T01:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084818768803623291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/2084627827379339480",
+              "start": 9,
+              "url": "https://t.co/EfVg5lGmu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084818768803623291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084627827379339480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真绷不住了，，， https://t.co/EfVg5lGmu6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395658814402162689",
+        "conversation_id": "2084333765229490384",
+        "created_at": "2026-08-04T13:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084627827379339480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084627827379339480",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 926,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084333765229490384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 什么跨圈杰哥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 325,
+          "like_count": 6751,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10505,
+          "following_count": 11147,
+          "like_count": 337745,
+          "listed_count": 66,
+          "media_count": 2418,
+          "tweet_count": 54541
+        },
+        "url": "",
+        "username": "8964tou12345678",
+        "verified": false
+      }
+    ]
+  }
+}

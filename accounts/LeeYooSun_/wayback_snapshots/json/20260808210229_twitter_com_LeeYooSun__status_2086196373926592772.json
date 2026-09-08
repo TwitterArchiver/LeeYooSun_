@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2086196373926592772",
+    "created_at": "2026-08-08T21:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T22:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086196373926592772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/obsesslvr/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/obsesslvr/status/2086179232581833090",
+          "start": 6,
+          "url": "https://t.co/rB4w0ZCZNw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086196373926592772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086179232581833090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是你们谁 https://t.co/rB4w0ZCZNw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2086179225069899776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOY88AXUAAWQ0_.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2086196373926592772",
+        "created_at": "2026-08-08T21:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T22:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086196373926592772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/obsesslvr/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/obsesslvr/status/2086179232581833090",
+              "start": 6,
+              "url": "https://t.co/rB4w0ZCZNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086196373926592772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086179232581833090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是你们谁 https://t.co/rB4w0ZCZNw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086179225069899776"
+          ]
+        },
+        "author_id": "1984489295311470592",
+        "conversation_id": "2086179232581833090",
+        "created_at": "2026-08-08T19:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086179232581833090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IEo6wTW50N",
+              "end": 23,
+              "expanded_url": "https://x.com/obsesslvr/status/2086179232581833090/photo/1",
+              "media_key": "3_2086179225069899776",
+              "start": 0,
+              "url": "https://t.co/IEo6wTW50N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086179232581833090",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 3936,
+          "like_count": 686,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/IEo6wTW50N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 329,
+          "like_count": 7223,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T05:15:12.000Z",
+        "description": "",
+        "id": "1984489295311470592",
+        "name": "╋━",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082489498676473856/VpvpPhL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 4,
+          "like_count": 8187,
+          "listed_count": 13,
+          "media_count": 61,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "obsesslvr",
+        "verified": false
+      }
+    ]
+  }
+}

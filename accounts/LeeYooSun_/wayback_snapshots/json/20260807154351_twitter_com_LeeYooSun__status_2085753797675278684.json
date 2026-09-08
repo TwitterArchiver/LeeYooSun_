@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085753797675278684",
+    "created_at": "2026-08-07T15:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085753797675278684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thedailyfumo/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/thedailyfumo/status/2085120909984026775",
+          "start": 12,
+          "url": "https://t.co/JJx39aB3vZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085753797675278684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085120909984026775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "琪露诺和茶宝都太可爱了 https://t.co/JJx39aB3vZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27066,
+        "height": 480,
+        "media_key": "13_2085120711539015680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085120711539015680/img/Frx9qWkf_o9nbkTm.jpg",
+        "public_metrics": {
+          "view_count": 20137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085120711539015680/vid/avc1/320x320/n5CVCcvPq1tC4ZSE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085120711539015680/vid/avc1/480x480/e6VnQq1nZfWSH4ud.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085120711539015680/pl/Z6-QkHaoNcK4hpbm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085753797675278684",
+        "created_at": "2026-08-07T15:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085753797675278684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thedailyfumo/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/thedailyfumo/status/2085120909984026775",
+              "start": 12,
+              "url": "https://t.co/JJx39aB3vZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085753797675278684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085120909984026775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "琪露诺和茶宝都太可爱了 https://t.co/JJx39aB3vZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085120711539015680"
+          ]
+        },
+        "author_id": "1965119272046178304",
+        "conversation_id": "2085120909984026775",
+        "created_at": "2026-08-05T21:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T22:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085120909984026775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOC4bwTB53",
+              "end": 112,
+              "expanded_url": "https://x.com/TheDailyFUMO/status/2085120909984026775/video/1",
+              "media_key": "13_2085120711539015680",
+              "start": 89,
+              "url": "https://t.co/gOC4bwTB53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085120909984026775",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 831,
+          "impression_count": 39717,
+          "like_count": 3437,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "Today another classic. New memes are good but we should never forget about the classics. https://t.co/gOC4bwTB53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 326,
+          "like_count": 7042,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2005
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-08T18:25:26.000Z",
+        "description": "Labubu and Funko Killer\nFunky reposts\n\nOnly FUMO posting. Ask anything, I'll answer in fumo language:\nyes = fumo fumo\nno = fumo fumo",
+        "id": "1965119272046178304",
+        "location": "Gensokyo ",
+        "name": "Fumo of the day",
+        "pinned_tweet_id": "2057906460047167994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074578843600306177/St72yEzZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5939,
+          "following_count": 329,
+          "like_count": 12959,
+          "listed_count": 12,
+          "media_count": 588,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "TheDailyFUMO",
+        "verified": false
+      }
+    ]
+  }
+}

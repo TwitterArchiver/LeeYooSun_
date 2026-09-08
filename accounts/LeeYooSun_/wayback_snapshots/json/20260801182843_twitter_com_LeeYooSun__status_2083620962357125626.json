@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2083620962357125626",
+    "created_at": "2026-08-01T18:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083620962357125626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haberintarzi/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/haberintarzi/status/2083335326739714194",
+          "start": 6,
+          "url": "https://t.co/hAHvhGPaOk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083620962357125626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083335326739714194",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的就这样 https://t.co/hAHvhGPaOk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14976,
+        "height": 900,
+        "media_key": "13_2083335298923057152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083335298923057152/img/tsQkiL9W4sXVkzQo.jpg",
+        "public_metrics": {
+          "view_count": 369416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083335298923057152/vid/avc1/320x400/Yq-Smv56qQmAb72J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083335298923057152/vid/avc1/480x600/5I0bZooxlDCzXESL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083335298923057152/vid/avc1/720x900/Vt1JJFqSxGWZOFay.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083335298923057152/pl/OShKJQds1yMFUzfG.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2083620962357125626",
+        "created_at": "2026-08-01T18:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083620962357125626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haberintarzi/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/haberintarzi/status/2083335326739714194",
+              "start": 6,
+              "url": "https://t.co/hAHvhGPaOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083620962357125626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083335326739714194",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的就这样 https://t.co/hAHvhGPaOk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083335298923057152"
+          ]
+        },
+        "author_id": "1273915971800051719",
+        "conversation_id": "2083335326739714194",
+        "created_at": "2026-07-31T23:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083335326739714194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ4Czf8K1X",
+              "end": 66,
+              "expanded_url": "https://x.com/haberintarzi/status/2083335326739714194/video/1",
+              "media_key": "13_2083335298923057152",
+              "start": 43,
+              "url": "https://t.co/RJ4Czf8K1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083335326739714194",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1526,
+          "impression_count": 872738,
+          "like_count": 8209,
+          "quote_count": 385,
+          "reply_count": 239,
+          "retweet_count": 421
+        },
+        "reply_settings": "everyone",
+        "text": "Dişisini gören bir kertenkelenin tepkisi : https://t.co/RJ4Czf8K1X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083215187512111104/zv-cPemR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 317,
+          "like_count": 6599,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1862
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-19T09:50:16.000Z",
+        "description": "Gündeme dair tarz haberler 🗞️📰",
+        "id": "1273915971800051719",
+        "location": "İstanbul, Türkiye",
+        "name": "Haberin Tarzı",
+        "pinned_tweet_id": "2078552454178750651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068390411513556992/DFWfh89V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118164,
+          "following_count": 101,
+          "like_count": 3708,
+          "listed_count": 5,
+          "media_count": 750,
+          "tweet_count": 1456
+        },
+        "url": "",
+        "username": "haberintarzi",
+        "verified": true
+      }
+    ]
+  }
+}

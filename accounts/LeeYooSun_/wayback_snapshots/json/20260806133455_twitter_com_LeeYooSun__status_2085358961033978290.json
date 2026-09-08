@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050513602096820224",
+    "conversation_id": "2085358961033978290",
+    "created_at": "2026-08-06T13:34:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085358961033978290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/majidawan76433…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/majidawan764334/status/2085265521684193654",
+          "start": 13,
+          "url": "https://t.co/ylwBdxCM61"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085358961033978290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085265521684193654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心诚则灵，宝宝会接纳你的 https://t.co/ylwBdxCM61"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "16_2085265489635500032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPBZ6iQa4AAn0Y7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPBZ6iQa4AAn0Y7.mp4"
+          }
+        ],
+        "width": 288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050513602096820224",
+        "conversation_id": "2085358961033978290",
+        "created_at": "2026-08-06T13:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085358961033978290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/majidawan76433…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/majidawan764334/status/2085265521684193654",
+              "start": 13,
+              "url": "https://t.co/ylwBdxCM61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085358961033978290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085265521684193654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心诚则灵，宝宝会接纳你的 https://t.co/ylwBdxCM61"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2085265489635500032"
+          ]
+        },
+        "author_id": "1677533186597990400",
+        "conversation_id": "2085265521684193654",
+        "created_at": "2026-08-06T07:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085265521684193654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kshB0chdWN",
+              "end": 23,
+              "expanded_url": "https://x.com/majidawan764334/status/2085265521684193654/photo/1",
+              "media_key": "16_2085265489635500032",
+              "start": 0,
+              "url": "https://t.co/kshB0chdWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085265521684193654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1924,
+          "like_count": 62,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kshB0chdWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-02T10:00:17.000Z",
+        "description": "药物滥用没有尽头//❤️@bing2000100830",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "bing2000100830"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cocochan2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cocochan2",
+                "start": 0,
+                "url": "https://t.co/Q2C2SItujh"
+              }
+            ]
+          }
+        },
+        "id": "2050513602096820224",
+        "location": "Laird No. 404, Saskatchewan",
+        "name": "仅此而已的故事🎵",
+        "pinned_tweet_id": "2083201230269247970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085125468320333824/oyNARiTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 323,
+          "like_count": 6884,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1964
+        },
+        "url": "https://t.co/Q2C2SItujh",
+        "username": "LeeYooSun_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:21:20.000Z",
+        "description": "wlg fan club 🐈 dm for submissions +\ncredit! (can't always respond but 😘 them all) forced blue check 👎 (gfy EM) IG: @",
+        "id": "1677533186597990400",
+        "location": "United States",
+        "name": "Cutes Animals",
+        "pinned_tweet_id": "2069784516260937785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962138061380210688/nMzPVxw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8619,
+          "following_count": 6214,
+          "like_count": 15037,
+          "listed_count": 23,
+          "media_count": 3703,
+          "tweet_count": 8523
+        },
+        "url": "",
+        "username": "majidawan764334",
+        "verified": true
+      }
+    ]
+  }
+}
